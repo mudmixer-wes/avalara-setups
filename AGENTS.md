@@ -243,6 +243,32 @@ Return creation:
   - `POST /accounts/2006428542/companies/<companyId>/taxFormCode/<taxFormCode>/filingRequests/add`
 - This has already been used successfully for California setup in the new company.
 
+## PSQ / Questionnaire Learnings
+
+- Avalara's questionnaire portal is commonly referred to as `PSQ` (`Professional Services Questionnaire`).
+- Reaching PSQ usually requires navigating from an already authenticated Avalara browser session; direct questionnaire URLs can bounce through Avalara Identity and fail to carry enough auth state by themselves.
+- `us-all-onboarding-questions.json` is not the full registration-questionnaire corpus.
+  - It is the Returns onboarding/search tree only.
+  - It does not contain the full PSQ registration/de-registration prompts, conditional logic, or document requirements.
+- The richer existing registration-questionnaire answer dump is:
+  - `tmp/michigan-questionnaire-order.json`
+  - `tmp/michigan-questionnaire-answers.json`
+- Michigan questionnaire dump scope:
+  - `michigan-questionnaire-answers.json` contains `5,542` saved answer rows across `505` distinct `questionId` values.
+  - It is useful for question IDs and answer coverage, but it is not the full question-definition or dependency schema by itself.
+- PSQ de-registration surface was captured and sanitized from project `10737`.
+  - Saved outputs live in `exports/data-dumps/2026-03-14/psq-surface/`.
+  - These include extracted prompt/help text, conditional JS rules, and state requirement shapes.
+  - The capture confirmed non-obvious operational guidance such as Iowa wet-sign form requirements and project-scoped form download paths.
+- PSQ file storage inventory was also captured.
+  - Saved outputs live in `exports/data-dumps/2026-03-14/psq-files/`.
+  - Inventory captured `21` folders and `105` file references.
+  - Current split is mostly `De-Registration Project` files, plus `Email History` and two root Iowa PDFs.
+- Important current blocker:
+  - PSQ file listing works, but `/GoogleDrive/DownloadFile/<id>` returned HTTP `500` during extraction attempts.
+  - The manifest/inventory artifacts were saved, but the binary file payloads were not successfully mirrored.
+  - See `exports/data-dumps/2026-03-14/psq-files/psq-file-download-status.json`.
+
 ## Local Files
 
 Useful workspace files:
