@@ -1,0 +1,12 @@
+{
+  "company_id": 6550943,
+  "is_ssgl_company": true,
+  "ssgl_countries": [
+    "CA"
+  ],
+  "ssgl_id": 8710115,
+  "ssgl_modified_date": "2026-02-19T02:30:14.39",
+  "ssgl_name": "ssgl",
+  "ssgl_set": "avalara:returns",
+  "two_factor_alias_configured": false
+}

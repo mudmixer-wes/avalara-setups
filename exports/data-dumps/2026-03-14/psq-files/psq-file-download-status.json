@@ -1,0 +1,12 @@
+{
+  "binary_download_attempted": true,
+  "binary_download_succeeded": false,
+  "downloaded_file_count": 0,
+  "known_file_reference_count": 105,
+  "failure_mode": "PSQ /GoogleDrive/DownloadFile returned HTTP 500 from both browser and shell paths during extraction.",
+  "preserved_artifacts": [
+    "psq-file-storage-manifest.json",
+    "psq-file-storage-manifest.csv",
+    "psq-file-storage-summary.json"
+  ]
+}

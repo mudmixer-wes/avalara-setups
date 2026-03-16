@@ -1,0 +1,116 @@
+{
+  "answer_row_count": 962,
+  "filing_calendar_row_count": 80,
+  "frequency_counts": {
+    "Annually": 7,
+    "InverseQuarterly": 1,
+    "Monthly": 60,
+    "Quarterly": 12
+  },
+  "status_counts": {
+    "Active": 18,
+    "Expired": 62
+  },
+  "top_tax_forms": [
+    [
+      "USNMTRD41413",
+      3
+    ],
+    [
+      "USNVTXR01",
+      3
+    ],
+    [
+      "USMAST9",
+      2
+    ],
+    [
+      "USNCE500E536",
+      2
+    ],
+    [
+      "USOHUST1",
+      2
+    ],
+    [
+      "USTX0111401116",
+      2
+    ],
+    [
+      "USTNSLS450",
+      2
+    ],
+    [
+      "USINST103",
+      2
+    ],
+    [
+      "USAL2620",
+      2
+    ],
+    [
+      "USKY51A102",
+      2
+    ],
+    [
+      "USWAMULTIPURPOSEST",
+      2
+    ],
+    [
+      "USALMADISONCOUNTY",
+      2
+    ],
+    [
+      "USMS72110015",
+      2
+    ],
+    [
+      "USARET1",
+      1
+    ],
+    [
+      "USHIG45",
+      1
+    ],
+    [
+      "USWYF41",
+      1
+    ],
+    [
+      "USCACDTFA401A2",
+      1
+    ],
+    [
+      "USCODR0100",
+      1
+    ],
+    [
+      "USGAST3SALES",
+      1
+    ],
+    [
+      "USKSCT9U",
+      1
+    ],
+    [
+      "USFLDR15",
+      1
+    ],
+    [
+      "USILST1",
+      1
+    ],
+    [
+      "USID850",
+      1
+    ],
+    [
+      "USMEST7",
+      1
+    ],
+    [
+      "USMI5080SU",
+      1
+    ]
+  ]
+}

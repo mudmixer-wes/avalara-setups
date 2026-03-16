@@ -1,0 +1,632 @@
+{
+  "generated_at": "2026-03-14T14:30:19.523787+00:00",
+  "sanitized": true,
+  "source_files": {
+    "project_json": "/tmp/psq-project-10737.json",
+    "general_html": "/tmp/psq-general-10737.html",
+    "dereg_html": "/tmp/psq-dereg-10737.html",
+    "geninfo_js": "/tmp/psq-genInfo.js",
+    "owner_js": "/tmp/psq-ownerCompanyInfo.js",
+    "preview_js": "/tmp/psq-enablePreviewInputs.js"
+  },
+  "project": {
+    "customer_project_id": 10737,
+    "financial_force_project_id": "PR-076383",
+    "stage": "Complete"
+  },
+  "general_information": {
+    "sections": [
+      "Business Information",
+      "Contact for States",
+      "Address of Main Business Location",
+      "Mailing Address",
+      "Owner/Partner/Officer Information",
+      "Owner/Partner/Officer"
+    ],
+    "help_items": [
+      {
+        "source": "general_information",
+        "title": "Legal Entity Type",
+        "content": "Based on your Legal Name, it appears you are an LLC. If you are an LLC, paying income tax as a Corporation, Disregarded entity, etc., please select the correct LLC option and you will be prompted to select a fling status."
+      },
+      {
+        "source": "general_information",
+        "title": "Contact",
+        "content": "Contact information will appear on the state correspondence. The individual listed will be the point of contact for the state should they have any questions."
+      }
+    ]
+  },
+  "de_registration": {
+    "question_records": [
+      {
+        "order": 1,
+        "field_name": "BusinessCloseDate",
+        "prompt": "What is the date of last sale for the business entity that is deregistering? This date will serve as the effective date on all applications to deregister your business entity and close your sales tax account. No tax should be collected by the business entity after this date and no transactions occurring after this date should be included in your final return.",
+        "hidden_by_default": false,
+        "help_text": "The exact Close Out/De-registration Date provided below will be used on ALL the de-registration requests sent to ALL the jurisdictions within the scope of this project.",
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 2,
+        "field_name": "OptionBusinessClosure",
+        "prompt": "What is the reason your business entity is deregistering in these jurisdictions?",
+        "hidden_by_default": false,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 3,
+        "field_name": "OptionBusinessClosureOther",
+        "prompt": "Deregistration Reason",
+        "hidden_by_default": true,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 4,
+        "field_name": "IsNewEntityRegisteredForSalesTax",
+        "prompt": "Is the acquirer or surviving business entity already registered and collecting sales and use tax under a new entity?",
+        "hidden_by_default": true,
+        "help_text": null,
+        "warning_texts": [
+          "If the acquirer or surviving business entity is not registered and collecting sales and use tax prior to the deregistration effective date, a sales tax liability may be incurred. The acquirer or surviving business entity will be responsible for paying this liability at its own expense."
+        ],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 5,
+        "field_name": "WasRegisteredBeforeLastSaleDate",
+        "prompt": "Was the acquirer or surviving business entity registered for sales tax registration before your date of last sale you provided?",
+        "hidden_by_default": true,
+        "help_text": null,
+        "warning_texts": [
+          "If the acquirer or surviving business entity is not registered and collecting sales and use tax prior to the deregistration effective date, a sales tax liability may be incurred. The acquirer or surviving business entity will be responsible for paying this liability at its own expense."
+        ],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 6,
+        "field_name": "BusinessSold",
+        "prompt": "Was the business sold?",
+        "hidden_by_default": false,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 7,
+        "field_name": "FormFileId",
+        "prompt": "IA Representative Certification Form \u2013 Wet Signature",
+        "hidden_by_default": false,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [
+          "/Home/ExportForm/10737?jId=174&formType=DeregOther1FormsName"
+        ],
+        "download_states": [
+          "Iowa"
+        ],
+        "has_uploaded_attachment": true
+      },
+      {
+        "order": 8,
+        "field_name": "StopAvataxCalculation",
+        "prompt": "As part of this deregistration project, would you like Avalara to stop tax calculation and collection in the AvaTax account provided above?",
+        "hidden_by_default": false,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 9,
+        "field_name": "FilingApproval",
+        "prompt": "As part of this deregistration project, would you like Avalara to end-date filing calendars and stop future filings after the last required return for the AvaTax account provided above?",
+        "hidden_by_default": false,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      },
+      {
+        "order": 10,
+        "field_name": "DeregistrationSignature",
+        "prompt": "Signature",
+        "hidden_by_default": false,
+        "help_text": null,
+        "warning_texts": [],
+        "download_paths": [],
+        "download_states": [],
+        "has_uploaded_attachment": false
+      }
+    ],
+    "help_items": [
+      {
+        "source": "de_registration",
+        "title": "Business close out/De-registration date",
+        "content": "The exact Close Out/De-registration Date provided below will be used on ALL the de-registration requests sent to ALL the jurisdictions within the scope of this project."
+      }
+    ],
+    "state_requirements": [
+      {
+        "state": "Alabama",
+        "jurisdiction_id": "26",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Arizona",
+        "jurisdiction_id": "78",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "California",
+        "jurisdiction_id": "97",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Colorado",
+        "jurisdiction_id": "113",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Connecticut",
+        "jurisdiction_id": "168",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Florida",
+        "jurisdiction_id": "170",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Georgia",
+        "jurisdiction_id": "171",
+        "required_fields": [
+          "Account Number",
+          "User Name",
+          "Password"
+        ],
+        "has_account_number": true,
+        "has_username": true,
+        "has_password": true
+      },
+      {
+        "state": "Hawaii",
+        "jurisdiction_id": "173",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Iowa",
+        "jurisdiction_id": "174",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Idaho",
+        "jurisdiction_id": "176",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Illinois",
+        "jurisdiction_id": "181",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Kansas",
+        "jurisdiction_id": "183",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Kentucky",
+        "jurisdiction_id": "184",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Louisiana",
+        "jurisdiction_id": "212",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Massachusetts",
+        "jurisdiction_id": "250",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Maryland",
+        "jurisdiction_id": "251",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Maine",
+        "jurisdiction_id": "252",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Michigan",
+        "jurisdiction_id": "253",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Minnesota",
+        "jurisdiction_id": "254",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Missouri",
+        "jurisdiction_id": "255",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Mississippi",
+        "jurisdiction_id": "256",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "North Carolina",
+        "jurisdiction_id": "257",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "North Dakota",
+        "jurisdiction_id": "258",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Nebraska",
+        "jurisdiction_id": "259",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "New Mexico",
+        "jurisdiction_id": "261",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Nevada",
+        "jurisdiction_id": "262",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "New York",
+        "jurisdiction_id": "263",
+        "required_fields": [
+          "Account Number",
+          "User Name",
+          "Password"
+        ],
+        "has_account_number": true,
+        "has_username": true,
+        "has_password": true
+      },
+      {
+        "state": "Ohio",
+        "jurisdiction_id": "264",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Oklahoma",
+        "jurisdiction_id": "266",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Pennsylvania",
+        "jurisdiction_id": "268",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "South Carolina",
+        "jurisdiction_id": "271",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "South Dakota",
+        "jurisdiction_id": "272",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Tennessee",
+        "jurisdiction_id": "273",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Texas",
+        "jurisdiction_id": "274",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Utah",
+        "jurisdiction_id": "275",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Virginia",
+        "jurisdiction_id": "276",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Washington",
+        "jurisdiction_id": "278",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Wisconsin",
+        "jurisdiction_id": "279",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "West Virginia",
+        "jurisdiction_id": "281",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      },
+      {
+        "state": "Wyoming",
+        "jurisdiction_id": "283",
+        "required_fields": [
+          "Account Number"
+        ],
+        "has_account_number": true,
+        "has_username": false,
+        "has_password": false
+      }
+    ]
+  },
+  "js_findings": {
+    "masked_endpoints": [
+      "/Questionnaire/SaveNewBusinessLocation",
+      "/Questionnaire/Preview",
+      "/Questionnaire/GetMaskedFieldValue?customerProjectId=",
+      "/Questionnaire/GetMaskedRegFieldValue?customerProjectId="
+    ],
+    "conditional_rules": [
+      {
+        "rule_id": "q1_checkbox_controls_q47_per_state",
+        "description": "Q1 checkboxes toggle Q1 date collection and per-state Q47 blocks using state abbreviations.",
+        "source_file": "/tmp/psq-genInfo.js",
+        "line": 15
+      },
+      {
+        "rule_id": "project_type_6_changes_q47_behavior",
+        "description": "Project type 6 adds/removes Q47 and renumbers later questions when the related yes/no answer changes.",
+        "source_file": "/tmp/psq-genInfo.js",
+        "line": 34
+      },
+      {
+        "rule_id": "q48_ohio_special_case",
+        "description": "Q48 has an Ohio-specific branch that forces Ohio visibility/selection even when other states are hidden.",
+        "source_file": "/tmp/psq-genInfo.js",
+        "line": 81
+      },
+      {
+        "rule_id": "llc_tax_purpose_branching",
+        "description": "Legal entity type drives LLC tax-purpose options and related federal-tax sections.",
+        "source_file": "/tmp/psq-genInfo.js",
+        "line": 162
+      },
+      {
+        "rule_id": "second_owner_branching",
+        "description": "Second-owner help/visibility depends on partnership-style entity types and one LLC tax-purpose path.",
+        "source_file": "/tmp/psq-genInfo.js",
+        "line": 4
+      },
+      {
+        "rule_id": "business_location_subquestions",
+        "description": "Business-location subquestions are shown per jurisdiction via dynamic business-location blocks.",
+        "source_file": "/tmp/psq-genInfo.js",
+        "line": 608
+      },
+      {
+        "rule_id": "masked_value_fetch_endpoints",
+        "description": "Preview mode can fetch masked field values and masked registration credentials through authenticated questionnaire endpoints.",
+        "source_file": "/tmp/psq-enablePreviewInputs.js",
+        "line": 44
+      },
+      {
+        "rule_id": "owner_passport_driver_license_branching",
+        "description": "Owner identity fields switch between passport and driver-license sections, with extra rules for owner two.",
+        "source_file": "/tmp/psq-ownerCompanyInfo.js",
+        "line": 91
+      }
+    ]
+  }
+}

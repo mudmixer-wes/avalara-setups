@@ -1,0 +1,36 @@
+{
+  "guidedTours": {},
+  "hasCompletedGoLivePutRequest": false,
+  "hideGuidedRecommendationsModal": false,
+  "hideNewReturnsExperienceModal": false,
+  "hideOnboardingModal": false,
+  "isSSGLCompany": true,
+  "sentREV1843FormToAvalaraSupport": false,
+  "ssgl": {
+    "ModifiedUserId": 6664165,
+    "companyId": 6550943,
+    "id": 8710115,
+    "modifiedDate": "2026-02-19T02:30:14.39",
+    "name": "ssgl",
+    "set": "avalara:returns",
+    "value": {
+      "countries": {
+        "CA": {
+          "screenerQuestionsStatus": "eligible"
+        }
+      }
+    }
+  },
+  "tfoMigration": {
+    "completedHistoricTFOZips": false,
+    "didMigrateFromTFO": false,
+    "hasHistoricTFOZips": false
+  },
+  "twoFactorAlias": {
+    "alias": {},
+    "configured": false,
+    "email": {},
+    "regions": {}
+  },
+  "understandAvalaraCannotFileWABOUntilDetailsShared": false
+}

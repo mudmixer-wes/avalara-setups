@@ -1,0 +1,58 @@
+city_county_fips_ratio,city_county_score,city_place_fips_ratio,city_place_score,city_rows,classification,county_fips_ratio,county_rows,county_score,is_region_taxable,join_readiness_bucket,join_readiness_score,notes,special_county_ratio,special_identifier_ratio,special_place_ratio,special_rows,special_score,state_abbrev,state_name,state_rows,state_score,streamlined_sales_tax,zip_rows
+0.0256,0.3,1.0,35.0,156,State,1.0,16,25.0,False,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,33,11.8,AK,ALASKA,1,10.0,False,273
+0.8071,8.1,0.9937,34.8,477,State,1.0,67,25.0,True,workable,89.2,meaningful special-jurisdiction burden,0.2663,0.2663,0.092,413,11.4,AL,ALABAMA,1,10.0,False,799
+0.4057,4.1,0.9897,34.6,774,State,1.0,77,25.0,True,workable,88.3,many city rows missing county FIPS,0.3333,0.3333,0.0,6,14.6,AR,ARKANSAS,1,10.0,True,705
+1.0,10.0,1.0,35.0,0,Outlying Area,1.0,0,25.0,True,straightforward,100.0,,1.0,1.0,1.0,0,20.0,AS,AMERICAN SAMOA,1,10.0,False,1
+0.9891,9.9,1.0,35.0,92,State,1.0,15,25.0,True,straightforward,92.7,,0.1351,0.1351,0.0,37,12.8,AZ,ARIZONA,1,10.0,False,519
+0.3714,3.7,0.9938,34.8,482,State,1.0,58,25.0,True,workable,86.8,meaningful special-jurisdiction burden; many city rows missing county FIPS,0.4054,0.4054,0.0,296,13.3,CA,CALIFORNIA,1,10.0,False,2571
+0.8014,8.0,0.9965,34.9,282,State,1.0,62,25.0,True,straightforward,90.9,meaningful special-jurisdiction burden,0.2579,0.2579,0.0063,159,13.0,CO,COLORADO,1,10.0,False,640
+0.0,0.0,1.0,35.0,169,State,1.0,17,25.0,True,workable,81.9,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,14,11.9,CT,CONNECTICUT,1,10.0,False,420
+1.0,10.0,1.0,35.0,0,District,1.0,0,25.0,True,straightforward,92.0,specials mostly need name/code matching,0.0,0.0,0.0,1,12.0,DC,DISTRICT OF COLUMBIA,1,10.0,False,301
+0.0,0.0,1.0,35.0,57,State,1.0,3,25.0,False,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,2,12.0,DE,DELAWARE,1,10.0,False,96
+0.0097,0.1,0.9879,34.6,413,State,1.0,67,25.0,True,workable,83.4,many city rows missing county FIPS,0.2424,0.2424,0.0,33,13.7,FL,FLORIDA,1,10.0,False,1457
+0.0,0.0,1.0,35.0,545,State,1.0,159,25.0,True,workable,86.9,many city rows missing county FIPS,0.6714,0.6714,0.0,70,16.9,GA,GEORGIA,1,10.0,True,941
+1.0,10.0,1.0,35.0,0,Outlying Area,1.0,0,25.0,True,straightforward,100.0,,1.0,1.0,1.0,0,20.0,GU,GUAM,1,10.0,False,12
+1.0,10.0,1.0,35.0,0,State,1.0,4,25.0,True,straightforward,92.0,specials mostly need name/code matching,0.0,0.0,0.0,6,12.0,HI,HAWAII,1,10.0,False,137
+0.492,4.9,0.9995,35.0,1872,State,1.0,100,25.0,True,straightforward,93.3,meaningful special-jurisdiction burden; many city rows missing county FIPS,0.9758,0.9758,0.0,207,18.4,IA,IOWA,1,10.0,True,1054
+0.07,0.7,1.0,35.0,200,State,1.0,44,25.0,True,workable,85.0,many city rows missing county FIPS,0.3,0.3,0.0,10,14.3,ID,IDAHO,1,10.0,False,317
+0.994,9.9,0.9948,34.8,1338,State,1.0,102,25.0,True,straightforward,92.9,meaningful special-jurisdiction burden,0.4379,0.4379,0.065,354,13.1,IL,ILLINOIS,1,10.0,False,1568
+0.0,0.0,1.0,35.0,567,State,1.0,92,25.0,True,workable,81.9,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,8,11.9,IN,INDIANA,1,10.0,True,958
+0.2679,2.7,0.997,34.9,993,State,1.0,105,25.0,True,moderate,74.2,special-heavy; specials mostly need name/code matching; many city rows missing county FIPS,0.0938,0.0938,0.0024,1674,1.6,KS,KANSAS,1,10.0,True,747
+0.0,0.0,1.0,35.0,418,State,1.0,120,25.0,True,workable,80.9,meaningful special-jurisdiction burden; specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,163,10.9,KY,KENTUCKY,1,10.0,True,944
+0.7564,7.6,0.9968,34.9,312,State,1.0,65,25.0,True,straightforward,92.3,meaningful special-jurisdiction burden,0.5602,0.5602,0.029,241,14.9,LA,LOUISIANA,1,10.0,False,719
+0.0,0.0,1.0,35.0,351,State,1.0,0,25.0,True,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,5,12.0,MA,MASSACHUSETTS,1,10.0,False,679
+0.0066,0.1,1.0,35.0,152,State,1.0,23,25.0,True,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,8,11.9,MD,MARYLAND,1,10.0,False,601
+0.0,0.0,1.0,35.0,23,State,1.0,16,25.0,True,moderate,79.3,meaningful special-jurisdiction burden; specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,403,9.3,ME,MAINE,1,10.0,False,485
+0.0,0.0,1.0,35.0,530,State,1.0,83,25.0,True,moderate,73.3,special-heavy; specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,1309,3.3,MI,MICHIGAN,1,10.0,True,1159
+0.017,0.2,0.9936,34.8,941,State,1.0,126,25.0,True,workable,84.1,many city rows missing county FIPS,0.3592,0.3592,0.0,103,14.2,MN,MINNESOTA,1,10.0,True,952
+0.9782,9.8,0.917,32.1,1193,State,1.0,114,25.0,True,workable,87.7,special-heavy; city place FIPS has gaps,0.6964,0.6964,0.0496,1008,10.9,MO,MISSOURI,1,10.0,False,1154
+1.0,10.0,1.0,35.0,0,Outlying Area,1.0,0,25.0,True,straightforward,100.0,,1.0,1.0,1.0,0,20.0,MP,NORTHERN MARIANA ISLANDS,1,10.0,False,3
+0.0067,0.1,1.0,35.0,299,State,1.0,82,25.0,True,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,5,12.0,MS,MISSISSIPPI,1,10.0,False,516
+0.0,0.0,1.0,35.0,129,State,1.0,56,25.0,False,workable,81.9,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,19,11.9,MT,MONTANA,1,10.0,False,404
+0.0,0.0,0.9982,34.9,561,State,1.0,100,25.0,True,workable,83.0,many city rows missing county FIPS,0.1613,0.1613,0.0,31,13.1,NC,NORTH CAROLINA,1,10.0,True,1079
+0.0422,0.4,0.9983,34.9,593,State,1.0,102,25.0,True,workable,82.3,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,8,11.9,ND,NORTH DAKOTA,1,10.0,True,407
+0.0919,0.9,0.9896,34.6,577,State,1.0,93,25.0,True,workable,82.3,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,43,11.7,NE,NEBRASKA,1,10.0,True,616
+0.0,0.0,1.0,35.0,13,State,1.0,10,25.0,False,workable,80.5,meaningful special-jurisdiction burden; specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,223,10.5,NH,NEW HAMPSHIRE,1,10.0,False,281
+0.0,0.0,1.0,35.0,564,State,1.0,21,25.0,True,workable,81.7,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,48,11.7,NJ,NEW JERSEY,1,10.0,True,721
+0.9496,9.5,0.9281,32.5,139,State,1.0,33,25.0,True,straightforward,92.6,city place FIPS has gaps,0.5704,0.5704,0.0141,142,15.6,NM,NEW MEXICO,1,10.0,False,427
+0.0,0.0,1.0,35.0,26,State,1.0,17,25.0,True,workable,82.1,specials mostly need name/code matching; many city rows missing county FIPS,0.0333,0.0333,0.0,30,12.1,NV,NEVADA,1,10.0,True,243
+0.0175,0.2,1.0,35.0,972,State,1.0,62,25.0,True,moderate,78.5,special-heavy; specials mostly need name/code matching; many city rows missing county FIPS,0.0141,0.0141,0.0,567,8.3,NY,NEW YORK,1,10.0,False,2143
+0.0022,0.0,0.9978,34.9,930,State,1.0,88,25.0,True,workable,81.0,meaningful special-jurisdiction burden; specials mostly need name/code matching; many city rows missing county FIPS,0.0483,0.0483,0.0,207,11.0,OH,OHIO,1,10.0,True,1413
+0.8514,8.5,0.9972,34.9,727,State,1.0,78,25.0,True,workable,85.5,special-heavy; specials mostly need name/code matching,0.0486,0.0486,0.0,803,7.0,OK,OKLAHOMA,1,10.0,True,764
+0.0042,0.0,1.0,35.0,238,State,1.0,36,25.0,False,workable,86.8,many city rows missing county FIPS,0.6111,0.6111,0.0,18,16.8,OR,OREGON,1,10.0,False,479
+0.0,0.0,1.0,35.0,191,State,1.0,67,25.0,True,workable,81.9,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,11,11.9,PA,PENNSYLVANIA,1,10.0,True,2162
+0.0,0.0,1.0,35.0,78,Outlying Area,1.0,78,25.0,True,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,1,12.0,PR,PUERTO RICO,1,10.0,False,174
+0.0,0.0,1.0,35.0,39,State,1.0,0,25.0,True,workable,82.0,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,1,12.0,RI,RHODE ISLAND,1,10.0,True,90
+0.8733,8.7,0.72,25.2,300,State,1.0,46,25.0,True,workable,83.9,city place FIPS has gaps,0.4308,0.4308,0.0,65,15.0,SC,SOUTH CAROLINA,1,10.0,False,534
+0.0671,0.7,0.9976,34.9,417,State,1.0,131,25.0,True,workable,84.2,many city rows missing county FIPS,0.2456,0.2456,0.0,57,13.6,SD,SOUTH DAKOTA,1,10.0,True,385
+0.0273,0.3,1.0,35.0,366,State,1.0,95,25.0,True,workable,81.7,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,85,11.4,TN,TENNESSEE,1,10.0,True,785
+0.8466,8.5,0.9968,34.9,1232,State,1.0,255,25.0,True,workable,87.1,special-heavy,0.2541,0.2541,0.0163,799,8.7,TX,TEXAS,1,10.0,False,2596
+1.0,10.0,1.0,35.0,0,Outlying Area,1.0,0,25.0,True,straightforward,100.0,,1.0,1.0,1.0,0,20.0,UM,UNITED STATES MINOR OUTLYING ISLANDS,1,10.0,False,0
+0.7304,7.3,0.9942,34.8,345,State,1.0,29,25.0,True,straightforward,92.0,meaningful special-jurisdiction burden,0.4939,0.4939,0.4268,164,14.9,UT,UTAH,1,10.0,True,344
+0.1853,1.9,0.9957,34.8,232,State,1.0,96,25.0,True,workable,86.7,many city rows missing county FIPS,0.4259,0.4259,0.0,54,15.0,VA,VIRGINIA,1,10.0,False,1213
+1.0,10.0,1.0,35.0,0,Outlying Area,1.0,0,25.0,True,straightforward,100.0,,1.0,1.0,1.0,0,20.0,VI,VIRGIN ISLANDS,1,10.0,False,16
+0.0851,0.9,0.9965,34.9,282,State,1.0,14,25.0,True,workable,83.8,many city rows missing county FIPS,0.1912,0.1912,0.0,68,13.1,VT,VERMONT,1,10.0,True,308
+0.014,0.1,1.0,35.0,285,State,1.0,39,25.0,True,workable,80.9,meaningful special-jurisdiction burden; many city rows missing county FIPS,0.235,0.235,0.0043,468,10.8,WA,WASHINGTON,1,10.0,True,715
+0.0,0.0,1.0,35.0,2177,State,1.0,79,25.0,True,moderate,73.0,special-heavy; specials mostly need name/code matching; many city rows missing county FIPS,0.0037,0.0037,0.0,1351,3.0,WI,WISCONSIN,1,10.0,True,877
+0.1577,1.6,0.9892,34.6,279,State,0.9873,79,24.7,True,workable,82.8,specials mostly need name/code matching; many city rows missing county FIPS; county FIPS has gaps,0.0,0.0,0.0,8,11.9,WV,WEST VIRGINIA,1,10.0,True,851
+0.0,0.0,1.0,35.0,104,State,1.0,23,25.0,True,workable,81.9,specials mostly need name/code matching; many city rows missing county FIPS,0.0,0.0,0.0,8,11.9,WY,WYOMING,1,10.0,True,194

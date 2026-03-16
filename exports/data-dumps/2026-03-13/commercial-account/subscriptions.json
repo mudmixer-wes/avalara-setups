@@ -1,0 +1,192 @@
+{
+  "@recordsetCount": 17,
+  "value": [
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.07",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379907,
+      "modifiedDate": "2024-08-29T11:47:02.07",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaTaxST",
+      "subscriptionTypeId": 1
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.07",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379908,
+      "modifiedDate": "2024-08-29T11:47:02.07",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaTaxPro",
+      "subscriptionTypeId": 2
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.07",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379906,
+      "modifiedDate": "2024-08-29T11:47:02.07",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaTaxGlobal",
+      "subscriptionTypeId": 3
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.073",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379912,
+      "modifiedDate": "2024-08-29T11:47:02.073",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AutoAddress",
+      "subscriptionTypeId": 4
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.077",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379916,
+      "modifiedDate": "2024-08-29T11:47:02.077",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "Mrs",
+      "subscriptionTypeId": 9
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.07",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379909,
+      "modifiedDate": "2024-08-29T11:47:02.07",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaCert",
+      "subscriptionTypeId": 10
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.077",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379918,
+      "modifiedDate": "2024-08-29T11:47:02.077",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "MRSComplianceManager",
+      "subscriptionTypeId": 24
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.077",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379920,
+      "modifiedDate": "2024-08-29T11:47:02.077",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "MRSPremium",
+      "subscriptionTypeId": 35
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.073",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379913,
+      "modifiedDate": "2024-08-29T11:47:02.073",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaRentalLeasing",
+      "subscriptionTypeId": 36
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.08",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379921,
+      "modifiedDate": "2024-08-29T11:47:02.08",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaOtherTaxes",
+      "subscriptionTypeId": 37
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.073",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379914,
+      "modifiedDate": "2024-08-29T11:47:02.073",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "ECMPremium",
+      "subscriptionTypeId": 49
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.073",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379910,
+      "modifiedDate": "2024-08-29T11:47:02.073",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "AvaTaxOnlyDataOptout",
+      "subscriptionTypeId": 57
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.077",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379919,
+      "modifiedDate": "2024-08-29T11:47:02.077",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "ReturnsDataOptout",
+      "subscriptionTypeId": 58
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.077",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379917,
+      "modifiedDate": "2024-08-29T11:47:02.077",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "SSTDataOptout",
+      "subscriptionTypeId": 59
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.073",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379911,
+      "modifiedDate": "2024-08-29T11:47:02.073",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "NewAccountData",
+      "subscriptionTypeId": 61
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.073",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379915,
+      "modifiedDate": "2024-08-29T11:47:02.073",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "SST",
+      "subscriptionTypeId": 65
+    },
+    {
+      "accountId": 2006428542,
+      "createdDate": "2024-08-29T11:47:02.08",
+      "createdUserId": 124279,
+      "effectiveDate": "2024-08-28",
+      "id": 8379922,
+      "modifiedDate": "2024-08-29T11:47:02.08",
+      "modifiedUserId": 124279,
+      "subscriptionDescription": "ATR",
+      "subscriptionTypeId": 67
+    }
+  ]
+}

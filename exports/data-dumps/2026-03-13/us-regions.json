@@ -1,0 +1,860 @@
+{
+  "@recordsetCount": 57,
+  "value": [
+    {
+      "classification": "State",
+      "code": "AR",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Arkansas"
+        }
+      ],
+      "name": "ARKANSAS",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "MI",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Michigan"
+        }
+      ],
+      "name": "MICHIGAN",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "Outlying Area",
+      "code": "PR",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Puerto Rico"
+        }
+      ],
+      "name": "PUERTO RICO",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "TN",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Tennessee"
+        }
+      ],
+      "name": "TENNESSEE",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "Outlying Area",
+      "code": "AS",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "American Samoa"
+        }
+      ],
+      "name": "AMERICAN SAMOA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "GA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Georgia"
+        }
+      ],
+      "name": "GEORGIA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "KS",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Kansas"
+        }
+      ],
+      "name": "KANSAS",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "MN",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Minnesota"
+        }
+      ],
+      "name": "MINNESOTA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "TX",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Texas"
+        }
+      ],
+      "name": "TEXAS",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "Outlying Area",
+      "code": "UM",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "United States Minor Outlying Islands"
+        }
+      ],
+      "name": "UNITED STATES MINOR OUTLYING ISLANDS",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "AK",
+      "countryCode": "US",
+      "isRegionTaxable": false,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Alaska"
+        }
+      ],
+      "name": "ALASKA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "AL",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Alabama"
+        }
+      ],
+      "name": "ALABAMA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "CO",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Colorado"
+        }
+      ],
+      "name": "COLORADO",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "KY",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Kentucky"
+        }
+      ],
+      "name": "KENTUCKY",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "Outlying Area",
+      "code": "MP",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Northern Mariana Islands"
+        }
+      ],
+      "name": "NORTHERN MARIANA ISLANDS",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "NY",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "New York"
+        }
+      ],
+      "name": "NEW YORK",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "RI",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Rhode Island"
+        }
+      ],
+      "name": "RHODE ISLAND",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "SC",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "South Carolina"
+        }
+      ],
+      "name": "SOUTH CAROLINA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "SD",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "South Dakota"
+        }
+      ],
+      "name": "SOUTH DAKOTA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "WA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Washington"
+        }
+      ],
+      "name": "WASHINGTON",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "District",
+      "code": "DC",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "District of Columbia"
+        }
+      ],
+      "name": "DISTRICT OF COLUMBIA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "Outlying Area",
+      "code": "GU",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Guam"
+        }
+      ],
+      "name": "GUAM",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "IA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Iowa"
+        }
+      ],
+      "name": "IOWA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "OH",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Ohio"
+        }
+      ],
+      "name": "OHIO",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "OR",
+      "countryCode": "US",
+      "isRegionTaxable": false,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Oregon"
+        }
+      ],
+      "name": "OREGON",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "CA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "California"
+        }
+      ],
+      "name": "CALIFORNIA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "DE",
+      "countryCode": "US",
+      "isRegionTaxable": false,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Delaware"
+        }
+      ],
+      "name": "DELAWARE",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "HI",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Hawaii"
+        }
+      ],
+      "name": "HAWAII",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "MA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Massachusetts"
+        }
+      ],
+      "name": "MASSACHUSETTS",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "MT",
+      "countryCode": "US",
+      "isRegionTaxable": false,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Montana"
+        }
+      ],
+      "name": "MONTANA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "NC",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "North Carolina"
+        }
+      ],
+      "name": "NORTH CAROLINA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "NE",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Nebraska"
+        }
+      ],
+      "name": "NEBRASKA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "NJ",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "New Jersey"
+        }
+      ],
+      "name": "NEW JERSEY",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "Outlying Area",
+      "code": "VI",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Virgin Islands"
+        }
+      ],
+      "name": "VIRGIN ISLANDS",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "CT",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Connecticut"
+        }
+      ],
+      "name": "CONNECTICUT",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "FL",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Florida"
+        }
+      ],
+      "name": "FLORIDA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "IN",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Indiana"
+        }
+      ],
+      "name": "INDIANA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "OK",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Oklahoma"
+        }
+      ],
+      "name": "OKLAHOMA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "UT",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Utah"
+        }
+      ],
+      "name": "UTAH",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "WI",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Wisconsin"
+        }
+      ],
+      "name": "WISCONSIN",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "WV",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "West Virginia"
+        }
+      ],
+      "name": "WEST VIRGINIA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "ID",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Idaho"
+        }
+      ],
+      "name": "IDAHO",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "IL",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Illinois"
+        }
+      ],
+      "name": "ILLINOIS",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "MD",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Maryland"
+        }
+      ],
+      "name": "MARYLAND",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "ME",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Maine"
+        }
+      ],
+      "name": "MAINE",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "MO",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Missouri"
+        }
+      ],
+      "name": "MISSOURI",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "MS",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Mississippi"
+        }
+      ],
+      "name": "MISSISSIPPI",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "NM",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "New Mexico"
+        }
+      ],
+      "name": "NEW MEXICO",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "PA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Pennsylvania"
+        }
+      ],
+      "name": "PENNSYLVANIA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "VT",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Vermont"
+        }
+      ],
+      "name": "VERMONT",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "WY",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Wyoming"
+        }
+      ],
+      "name": "WYOMING",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "AZ",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Arizona"
+        }
+      ],
+      "name": "ARIZONA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "LA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Louisiana"
+        }
+      ],
+      "name": "LOUISIANA",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "ND",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "North Dakota"
+        }
+      ],
+      "name": "NORTH DAKOTA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "NH",
+      "countryCode": "US",
+      "isRegionTaxable": false,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "New Hampshire"
+        }
+      ],
+      "name": "NEW HAMPSHIRE",
+      "streamlinedSalesTax": false
+    },
+    {
+      "classification": "State",
+      "code": "NV",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Nevada"
+        }
+      ],
+      "name": "NEVADA",
+      "streamlinedSalesTax": true
+    },
+    {
+      "classification": "State",
+      "code": "VA",
+      "countryCode": "US",
+      "isRegionTaxable": true,
+      "localizedNames": [
+        {
+          "languageAlpha2Code": "en",
+          "languageAlpha3Code": "eng",
+          "name": "Virginia"
+        }
+      ],
+      "name": "VIRGINIA",
+      "streamlinedSalesTax": false
+    }
+  ]
+}

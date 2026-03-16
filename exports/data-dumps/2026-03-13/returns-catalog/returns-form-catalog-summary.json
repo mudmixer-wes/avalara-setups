@@ -1,0 +1,23 @@
+{
+  "source_file": "returns-default-company-code.json",
+  "total_rows": 846,
+  "rows_by_country": {
+    "CA": 6,
+    "IN": 9,
+    "US": 831
+  },
+  "rows_by_scope_level_guess": {
+    "likely_state_or_province_level": 774,
+    "likely_local": 71,
+    "unclear": 1
+  },
+  "rows_by_form_name_classification": {
+    "descriptive_local_label": 72,
+    "descriptive_state_level_label": 506,
+    "likely_official_or_near_official": 155,
+    "descriptive_or_internal_label": 110,
+    "likely_normalized_form_label": 3
+  },
+  "state_level_rows": 774,
+  "likely_official_rows": 155
+}

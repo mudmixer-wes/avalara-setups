@@ -1,0 +1,4 @@
+IsDeleted,IsFein,accountId,companyCode,createdDate,createdUserId,defaultCountry,hasProfile,id,inProgress,isActive,isAdvSave,isDefault,isReportingEntity,isTest,modifiedDate,modifiedUserId,name,parentCompanyId,roundingLevelId,taxDependencyLevelId,taxpayerIdNumber,warningsEnabled
+False,False,2006428542,MUDMIXERLLCNEW,2025-11-19T16:31:08.523,6664165,US,False,6550943,False,True,False,False,True,False,2026-02-23T19:42:07.697,6664165,MudMixer LLC (NEW),6359760,Line,State,47-3097812,
+False,False,2006428542,DEFAULT,2024-08-29T14:05:50.337,6664165,US,True,6359760,False,True,False,True,True,False,2024-08-29T14:27:48.003,6664165,"MudMixer, LLC",,Line,Document,47-3097812,False
+False,False,2006428542,REDDOGMOBILESHELTERSLLC,2024-09-20T16:59:23.39,6666765,US,True,6367873,False,False,False,False,True,False,2025-11-06T19:03:43.503,6697745,"Red Dog Mobile Shelters, LLC",,Line,Document,32-0756836,False

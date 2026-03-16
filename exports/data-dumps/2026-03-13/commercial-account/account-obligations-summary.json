@@ -1,0 +1,36 @@
+{
+  "connectors": {
+    "Avalara for Shopify": 1,
+    "NONE": 19,
+    "NetSuite OneWorld": 1
+  },
+  "customer_obligation_count": 21,
+  "managed_returns": {
+    "isActive": true,
+    "isObligated": true,
+    "isTrial": false,
+    "termEnd": "2026-08-27T00:00:00Z",
+    "termStart": "2025-08-28T00:00:00Z"
+  },
+  "obligation_sources": {
+    "Salesforce": 21
+  },
+  "products": {
+    "CALC_AVTX_CONN": 2,
+    "CALC_AVTX_OVG": 1,
+    "CALC_AVTX_SBX_SVC": 1,
+    "CALC_AVTX_SVC": 1,
+    "CDM_ECM_PRM_CEM_OVG": 1,
+    "CDM_ECM_PRM_CEM_SVC": 1,
+    "LR_ST_DREG": 2,
+    "LR_ST_REG_DOM": 4,
+    "RR_LFF_USG": 1,
+    "RR_MRS_PRM_PPD_OVG": 1,
+    "RR_MRS_PRM_PPD_PLN_LL": 1,
+    "RR_MRS_PRM_PPD_SVC": 1,
+    "RR_MRS_PRM_PPD_UNPLN_LL": 1,
+    "RR_MRS_PRM_PPD_UPG": 1,
+    "RR_SST_NONVOL": 1,
+    "RR_SST_VOL": 1
+  }
+}

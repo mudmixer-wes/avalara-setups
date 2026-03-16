@@ -1,0 +1,29 @@
+{
+  "@recordsetCount": 2,
+  "value": [
+    {
+      "country": "CA",
+      "displayName": "0.0% (Zero)",
+      "jurisCode": "CA",
+      "jurisName": "CANADA",
+      "jurisdictionTypeId": "CNT",
+      "rate": 0.0,
+      "rateTypeId": "Z",
+      "taxName": "Zero",
+      "taxSubType": "O",
+      "taxTypeGroupId": "InputAndOutput"
+    },
+    {
+      "country": "CA",
+      "displayName": "5.0% (Standard)",
+      "jurisCode": "CA",
+      "jurisName": "CANADA",
+      "jurisdictionTypeId": "CNT",
+      "rate": 0.05,
+      "rateTypeId": "S",
+      "taxName": "Standard",
+      "taxSubType": "O",
+      "taxTypeGroupId": "InputAndOutput"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "jurisdiction_rows": 39687,
+  "zip_rate_rows": 41548,
+  "jurisdiction_type_counts": {
+    "State": 63,
+    "City": 24432,
+    "County": 3344,
+    "Special": 11847,
+    "Country": 1
+  },
+  "fips_coverage_by_type": {
+    "City": {
+      "rows": 24432,
+      "with_state_fips": 24432,
+      "with_county_fips": 7715,
+      "with_place_fips": 24177
+    },
+    "Country": {
+      "rows": 1,
+      "with_state_fips": 1,
+      "with_county_fips": 0,
+      "with_place_fips": 0
+    },
+    "County": {
+      "rows": 3344,
+      "with_state_fips": 3344,
+      "with_county_fips": 3343,
+      "with_place_fips": 252
+    },
+    "Special": {
+      "rows": 11847,
+      "with_state_fips": 11847,
+      "with_county_fips": 2356,
+      "with_place_fips": 210
+    },
+    "State": {
+      "rows": 63,
+      "with_state_fips": 63,
+      "with_county_fips": 2,
+      "with_place_fips": 1
+    }
+  },
+  "zip_unique_states": 62,
+  "zip_unique_state_county_name_keys": 3406,
+  "zip_unique_state_city_name_keys": 29446,
+  "notes": [
+    "State, county, and many city rows can be joined to public GIS using FIPS-style fields from Avalara.",
+    "Special jurisdictions generally do not expose public boundary IDs here; later matching will likely depend on state plus code/name and external GIS source rules.",
+    "Zip-rate data is useful as a coarse name-based bridge, but it is not a boundary dataset."
+  ]
+}

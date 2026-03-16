@@ -1,0 +1,41 @@
+project_id,state,jurisdiction_id,required_fields,has_account_number,has_username,has_password
+10737,Alabama,26,Account Number,True,False,False
+10737,Arizona,78,Account Number,True,False,False
+10737,California,97,Account Number,True,False,False
+10737,Colorado,113,Account Number,True,False,False
+10737,Connecticut,168,Account Number,True,False,False
+10737,Florida,170,Account Number,True,False,False
+10737,Georgia,171,Account Number | User Name | Password,True,True,True
+10737,Hawaii,173,Account Number,True,False,False
+10737,Iowa,174,Account Number,True,False,False
+10737,Idaho,176,Account Number,True,False,False
+10737,Illinois,181,Account Number,True,False,False
+10737,Kansas,183,Account Number,True,False,False
+10737,Kentucky,184,Account Number,True,False,False
+10737,Louisiana,212,Account Number,True,False,False
+10737,Massachusetts,250,Account Number,True,False,False
+10737,Maryland,251,Account Number,True,False,False
+10737,Maine,252,Account Number,True,False,False
+10737,Michigan,253,Account Number,True,False,False
+10737,Minnesota,254,Account Number,True,False,False
+10737,Missouri,255,Account Number,True,False,False
+10737,Mississippi,256,Account Number,True,False,False
+10737,North Carolina,257,Account Number,True,False,False
+10737,North Dakota,258,Account Number,True,False,False
+10737,Nebraska,259,Account Number,True,False,False
+10737,New Mexico,261,Account Number,True,False,False
+10737,Nevada,262,Account Number,True,False,False
+10737,New York,263,Account Number | User Name | Password,True,True,True
+10737,Ohio,264,Account Number,True,False,False
+10737,Oklahoma,266,Account Number,True,False,False
+10737,Pennsylvania,268,Account Number,True,False,False
+10737,South Carolina,271,Account Number,True,False,False
+10737,South Dakota,272,Account Number,True,False,False
+10737,Tennessee,273,Account Number,True,False,False
+10737,Texas,274,Account Number,True,False,False
+10737,Utah,275,Account Number,True,False,False
+10737,Virginia,276,Account Number,True,False,False
+10737,Washington,278,Account Number,True,False,False
+10737,Wisconsin,279,Account Number,True,False,False
+10737,West Virginia,281,Account Number,True,False,False
+10737,Wyoming,283,Account Number,True,False,False

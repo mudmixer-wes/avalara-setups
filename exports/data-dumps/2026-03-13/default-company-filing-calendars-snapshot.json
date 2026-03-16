@@ -1,0 +1,5729 @@
+[
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "RedDogMS",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900771,
+      "country": "US",
+      "effDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Annually",
+      "locationCode": "",
+      "months": 2048,
+      "region": "AR",
+      "registrationId": "78211688-SLS",
+      "returnName": "ARET1",
+      "taxAuthorityId": 277,
+      "taxAuthorityName": "ARKANSAS",
+      "taxFormCode": "USARET1",
+      "taxTypeId": "All"
+    },
+    "id": 3900771
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900732,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "HI",
+      "registrationId": "GE-210-630-4000-01",
+      "returnName": "HIG45",
+      "taxAuthorityId": 278,
+      "taxAuthorityName": "HAWAII",
+      "taxFormCode": "USHIG45",
+      "taxTypeId": "All"
+    },
+    "id": 3900732
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "merrelln1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900768,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "WY",
+      "registrationId": "24060625",
+      "returnName": "WYF41",
+      "taxAuthorityId": 84,
+      "taxAuthorityName": "WYOMING",
+      "taxFormCode": "USWYF41",
+      "taxTypeId": "All"
+    },
+    "id": 3900768
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "RedDogMS",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900773,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "CA",
+      "registrationId": "225031840",
+      "returnName": "CACDTFA401A2",
+      "taxAuthorityId": 69,
+      "taxAuthorityName": "CALIFORNIA",
+      "taxFormCode": "USCACDTFA401A2",
+      "taxTypeId": "All"
+    },
+    "id": 3900773
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4230668,
+      "country": "US",
+      "effDate": "2026-01-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "fiscalYearStartMonth": 1,
+      "locationCode": "",
+      "months": 4095,
+      "region": "CO",
+      "registrationId": "30503395-003-SLS",
+      "returnName": "CODR0100",
+      "taxAuthorityId": 1,
+      "taxAuthorityName": "COLORADO",
+      "taxFormCode": "USCODR0100",
+      "taxTypeId": "All"
+    },
+    "id": 4230668
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900731,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "GA",
+      "registrationId": "175-892159",
+      "returnName": "GAST3SALES",
+      "taxAuthorityId": 86,
+      "taxAuthorityName": "GEORGIA",
+      "taxFormCode": "USGAST3SALES",
+      "taxTypeId": "All"
+    },
+    "id": 3900731
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "admin@cpajain.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900737,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "KS",
+      "registrationId": "005-473097812-F01",
+      "returnName": "KSCT9U",
+      "taxAuthorityId": 280,
+      "taxAuthorityName": "KANSAS",
+      "taxFormCode": "USKSCT9U",
+      "taxTypeId": "All"
+    },
+    "id": 3900737
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "7880190099513",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900777,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "FL",
+      "registrationId": "78-8019009951-3",
+      "returnName": "FLDR15",
+      "taxAuthorityId": 70,
+      "taxAuthorityName": "FLORIDA",
+      "taxFormCode": "USFLDR15",
+      "taxTypeId": "All"
+    },
+    "id": 3900777
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900735,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "IL",
+      "registrationId": "4504-1229",
+      "returnName": "ILST1",
+      "taxAuthorityId": 275,
+      "taxAuthorityName": "ILLINOIS",
+      "taxFormCode": "USILST1",
+      "taxTypeId": "All"
+    },
+    "id": 3900735
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900734,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "ID",
+      "registrationId": "006043691-08",
+      "returnName": "ID850",
+      "taxAuthorityId": 74,
+      "taxAuthorityName": "IDAHO",
+      "taxFormCode": "USID850",
+      "taxTypeId": "All"
+    },
+    "id": 3900734
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3980271,
+      "country": "US",
+      "effDate": "2025-04-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "MA",
+      "registrationId": "SLS-21297428-004",
+      "returnName": "MAST9",
+      "taxAuthorityId": 94,
+      "taxAuthorityName": "MASSACHUSETTS",
+      "taxFormCode": "USMAST9",
+      "taxTypeId": "All"
+    },
+    "id": 3980271
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900743,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "ME",
+      "registrationId": "11784026",
+      "returnName": "MEST7",
+      "taxAuthorityId": 92,
+      "taxAuthorityName": "MAINE",
+      "taxFormCode": "USMEST7",
+      "taxTypeId": "All"
+    },
+    "id": 3900743
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "merrelln1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900744,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "MI",
+      "registrationId": "453991770",
+      "returnName": "MI5080SU",
+      "taxAuthorityId": 95,
+      "taxAuthorityName": "MICHIGAN",
+      "taxFormCode": "USMI5080SU",
+      "taxTypeId": "All"
+    },
+    "id": 3900744
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MikeCarmody",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3995361,
+      "country": "US",
+      "effDate": "2025-04-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "VA",
+      "registrationId": "12-453991770F-001",
+      "returnName": "VAST1SU",
+      "taxAuthorityId": 82,
+      "taxAuthorityName": "VIRGINIA",
+      "taxFormCode": "USVAST1SU",
+      "taxTypeId": "All"
+    },
+    "id": 3995361
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "S00344388",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900746,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "MN",
+      "registrationId": "8142488",
+      "returnName": "MNPV49",
+      "taxAuthorityId": 281,
+      "taxAuthorityName": "MINNESOTA",
+      "taxFormCode": "USMNPV49",
+      "taxTypeId": "All"
+    },
+    "id": 3900746
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "S00344388",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4019387,
+      "country": "US",
+      "effDate": "2025-04-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "NC",
+      "registrationId": "601523839",
+      "returnName": "NCE500E536",
+      "taxAuthorityId": 285,
+      "taxAuthorityName": "NORTH CAROLINA",
+      "taxFormCode": "USNCE500E536",
+      "taxTypeId": "All"
+    },
+    "id": 4019387
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "453991770000",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900752,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "NJ",
+      "registrationId": "453991770000",
+      "returnName": "NJST50",
+      "taxAuthorityId": 96,
+      "taxAuthorityName": "NEW JERSEY",
+      "taxFormCode": "USNJST50",
+      "taxTypeId": "All"
+    },
+    "id": 3900752
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "RedDogMobile",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900769,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "OK",
+      "registrationId": "STS-14043138-05",
+      "returnName": "OKSTS2000220021",
+      "taxAuthorityId": 288,
+      "taxAuthorityName": "OKLAHOMA",
+      "taxFormCode": "USOKSTS2000220021",
+      "taxTypeId": "All"
+    },
+    "id": 3900769
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer123",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900758,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "PA",
+      "registrationId": "67-826-576",
+      "returnName": "PAPA3R",
+      "taxAuthorityId": 292,
+      "taxAuthorityName": "PENNSYLVANIA",
+      "taxFormCode": "USPAPA3R",
+      "taxTypeId": "All"
+    },
+    "id": 3900758
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900767,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "WV",
+      "registrationId": "24559144",
+      "returnName": "WVCST200CU",
+      "taxAuthorityId": 98,
+      "taxAuthorityName": "WEST VIRGINIA",
+      "taxFormCode": "USWVCST200CU",
+      "taxTypeId": "All"
+    },
+    "id": 3900767
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog_1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3928344,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "OH",
+      "registrationId": "99-149866",
+      "returnName": "OHUST1",
+      "taxAuthorityId": 287,
+      "taxAuthorityName": "OHIO",
+      "taxFormCode": "USOHUST1",
+      "taxTypeId": "All"
+    },
+    "id": 3928344
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "RedDogMS",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3968343,
+      "country": "US",
+      "effDate": "2025-03-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "TX",
+      "registrationId": "32045898569",
+      "returnName": "TX0111401116",
+      "taxAuthorityId": 72,
+      "taxAuthorityName": "TEXAS",
+      "taxFormCode": "USTX0111401116",
+      "taxTypeId": "All"
+    },
+    "id": 3968343
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "viniCPA1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900763,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "UT",
+      "registrationId": "15813937-002-STC",
+      "returnName": "UTTC62MULTILOCATION",
+      "taxAuthorityId": 293,
+      "taxAuthorityName": "UTAH",
+      "taxFormCode": "USUTTC62MULTILOCATION",
+      "taxTypeId": "All"
+    },
+    "id": 3900763
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900747,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-01-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "MO",
+      "registrationId": "28427190",
+      "returnName": "MO531",
+      "taxAuthorityId": 304,
+      "taxAuthorityName": "MISSOURI",
+      "taxFormCode": "USMO531",
+      "taxTypeId": "All"
+    },
+    "id": 3900747
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MudMixer1",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4161400,
+      "country": "US",
+      "effDate": "2025-11-01",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "TN",
+      "registrationId": "1002242647-SLC",
+      "returnName": "TNSLS450",
+      "taxAuthorityId": 291,
+      "taxAuthorityName": "TENNESSEE",
+      "taxFormCode": "USTNSLS450",
+      "taxTypeId": "All"
+    },
+    "id": 4161400
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "admin@cpajain.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900738,
+      "country": "US",
+      "effDate": "2024-01-01",
+      "filingFrequencyId": "Annually",
+      "locationCode": "",
+      "months": 2048,
+      "region": "KS",
+      "registrationId": "004-453991770-F01",
+      "returnName": "KSST36",
+      "taxAuthorityId": 280,
+      "taxAuthorityName": "KANSAS",
+      "taxFormCode": "USKSST36",
+      "taxTypeId": "All"
+    },
+    "id": 3900738
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3940242,
+      "country": "US",
+      "effDate": "2025-02-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "NM",
+      "registrationId": "03-665081-00-1",
+      "returnName": "NMTRD41413",
+      "taxAuthorityId": 219,
+      "taxAuthorityName": "NEW MEXICO",
+      "taxFormCode": "USNMTRD41413",
+      "taxTypeId": "All"
+    },
+    "id": 3940242
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4204435,
+      "country": "US",
+      "effDate": "2026-01-01",
+      "filingFrequencyId": "Annually",
+      "locationCode": "",
+      "months": 2048,
+      "region": "IN",
+      "registrationId": "0166102075-900",
+      "returnName": "INST103",
+      "taxAuthorityId": 99,
+      "taxAuthorityName": "INDIANA",
+      "taxFormCode": "USINST103",
+      "taxTypeId": "All"
+    },
+    "id": 4204435
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "viniCPA1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900759,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "SC",
+      "registrationId": "114327746",
+      "returnName": "SCST3",
+      "taxAuthorityId": 81,
+      "taxAuthorityName": "SOUTH CAROLINA",
+      "taxFormCode": "USSCST3",
+      "taxTypeId": "All"
+    },
+    "id": 3900759
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900776,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "CT",
+      "registrationId": "105060950-001",
+      "returnName": "CTOS114",
+      "taxAuthorityId": 88,
+      "taxAuthorityName": "CONNECTICUT",
+      "taxFormCode": "USCTOS114",
+      "taxTypeId": "All"
+    },
+    "id": 3900776
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900742,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "MD",
+      "registrationId": "20162254",
+      "returnName": "MDSALESUSE",
+      "taxAuthorityId": 93,
+      "taxAuthorityName": "MARYLAND",
+      "taxFormCode": "USMDSALESUSE",
+      "taxTypeId": "All"
+    },
+    "id": 3900742
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "vini@cpajain.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900772,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "AZ",
+      "registrationId": "21512776",
+      "returnName": "AZTPT2",
+      "taxAuthorityId": 218,
+      "taxAuthorityName": "ARIZONA",
+      "taxFormCode": "USAZTPT2",
+      "taxTypeId": "All"
+    },
+    "id": 3900772
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "S00344388",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900766,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Annually",
+      "locationCode": "",
+      "months": 2048,
+      "region": "WI",
+      "registrationId": "456-1031484525-02",
+      "returnName": "WIST12CT",
+      "taxAuthorityId": 80,
+      "taxAuthorityName": "WISCONSIN",
+      "taxFormCode": "USWIST12CT",
+      "taxTypeId": "All"
+    },
+    "id": 3900766
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4082090,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "SLU-R011995476",
+      "returnName": "AL2620",
+      "taxAuthorityId": 271,
+      "taxAuthorityName": "ALABAMA",
+      "taxFormCode": "USAL2620",
+      "taxTypeId": "All"
+    },
+    "id": 4082090
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3968085,
+      "country": "US",
+      "effDate": "2025-04-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "KY",
+      "registrationId": "000710590",
+      "returnName": "KY51A102",
+      "taxAuthorityId": 91,
+      "taxAuthorityName": "KENTUCKY",
+      "taxFormCode": "USKY51A102",
+      "taxTypeId": "All"
+    },
+    "id": 3968085
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog_1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900755,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 1170,
+      "region": "NY",
+      "registrationId": "453991770",
+      "returnName": "NYST100",
+      "taxAuthorityId": 71,
+      "taxAuthorityName": "NEW YORK",
+      "taxFormCode": "USNYST100",
+      "taxTypeId": "All"
+    },
+    "id": 3900755
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "nate@mudmixer.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4146663,
+      "country": "US",
+      "effDate": "2025-10-01",
+      "endDate": "2026-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "WA",
+      "registrationId": "605-267-406",
+      "returnName": "WAMULTIPURPOSEST",
+      "taxAuthorityId": 73,
+      "taxAuthorityName": "WASHINGTON",
+      "taxFormCode": "USWAMULTIPURPOSEST",
+      "taxTypeId": "All"
+    },
+    "id": 4146663
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072407,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALCULLMAN",
+      "taxAuthorityId": 227,
+      "taxAuthorityName": "CULLMAN CO",
+      "taxFormCode": "USALCULLMAN",
+      "taxTypeId": "All"
+    },
+    "id": 4072407
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072405,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALMONTGOMERYCOUNTY",
+      "taxAuthorityId": 250,
+      "taxAuthorityName": "MONTGOMERY CO",
+      "taxFormCode": "USALMONTGOMERYCOUNTY",
+      "taxTypeId": "All"
+    },
+    "id": 4072405
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072408,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALCULLMANCU",
+      "taxAuthorityId": 227,
+      "taxAuthorityName": "CULLMAN CO",
+      "taxFormCode": "USALCULLMANCU",
+      "taxTypeId": "All"
+    },
+    "id": 4072408
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072411,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALBALDWINCOUNTY",
+      "taxAuthorityId": 223,
+      "taxAuthorityName": "BALDWIN",
+      "taxFormCode": "USALBALDWINCOUNTY",
+      "taxTypeId": "All"
+    },
+    "id": 4072411
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072425,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALHELENA",
+      "taxAuthorityId": 237,
+      "taxAuthorityName": "HELENA",
+      "taxFormCode": "USALHELENA",
+      "taxTypeId": "All"
+    },
+    "id": 4072425
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072415,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "SLU-R01",
+      "returnName": "ALSTACSCOMBINED",
+      "taxAuthorityId": 273,
+      "taxAuthorityName": "SALES TAX AUDITING & COLLECTION SERVICES",
+      "taxFormCode": "USALSTACSCOMBINED",
+      "taxTypeId": "All"
+    },
+    "id": 4072415
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072423,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALMOBILECOUNTY",
+      "taxAuthorityId": 248,
+      "taxAuthorityName": "MOBILE CO",
+      "taxFormCode": "USALMOBILECOUNTY",
+      "taxTypeId": "All"
+    },
+    "id": 4072423
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4082092,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "LCL-R011995475",
+      "returnName": "ALMADISONCOUNTY",
+      "taxAuthorityId": 245,
+      "taxAuthorityName": "MADISON CO",
+      "taxFormCode": "USALMADISONCOUNTY",
+      "taxTypeId": "All"
+    },
+    "id": 4082092
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072420,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALTUSCALOOSACITYUSE",
+      "taxAuthorityId": 268,
+      "taxAuthorityName": "TUSCALOOSA",
+      "taxFormCode": "USALTUSCALOOSACITYUSE",
+      "taxTypeId": "All"
+    },
+    "id": 4072420
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072414,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALSHELBYCOUNTY",
+      "taxAuthorityId": 263,
+      "taxAuthorityName": "SHELBY",
+      "taxFormCode": "USALSHELBYCOUNTY",
+      "taxTypeId": "All"
+    },
+    "id": 4072414
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4072416,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALTUSCALOOSACITY",
+      "taxAuthorityId": 268,
+      "taxAuthorityName": "TUSCALOOSA",
+      "taxFormCode": "USALTUSCALOOSACITY",
+      "taxTypeId": "All"
+    },
+    "id": 4072416
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4082088,
+      "country": "US",
+      "effDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALALATAXUNIVERSAL",
+      "taxAuthorityId": 274,
+      "taxAuthorityName": "ALATAX LOCAL GOVERNMENT SERVICES",
+      "taxFormCode": "USALALATAXUNIVERSAL",
+      "taxTypeId": "All"
+    },
+    "id": 4082088
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "vini1mudmixer.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900754,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2024-12-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "NV",
+      "registrationId": "1044469978-001",
+      "returnName": "NVTXR01",
+      "taxAuthorityId": 87,
+      "taxAuthorityName": "NEVADA",
+      "taxFormCode": "USNVTXR01",
+      "taxTypeId": "All"
+    },
+    "id": 3900754
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog_1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900756,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2024-12-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "OH",
+      "registrationId": "99-149866",
+      "returnName": "OHUST1",
+      "taxAuthorityId": 287,
+      "taxAuthorityName": "OHIO",
+      "taxFormCode": "USOHUST1",
+      "taxTypeId": "All"
+    },
+    "id": 3900756
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MudMixer1",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900761,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-10-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "TN",
+      "registrationId": "1002332213-SLC",
+      "returnName": "TNSLS450",
+      "taxAuthorityId": 291,
+      "taxAuthorityName": "TENNESSEE",
+      "taxFormCode": "USTNSLS450",
+      "taxTypeId": "All"
+    },
+    "id": 3900761
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900753,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2024-12-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "NM",
+      "registrationId": "03-525009-00-7",
+      "returnName": "NMTRD41413",
+      "taxAuthorityId": 219,
+      "taxAuthorityName": "NEW MEXICO",
+      "taxFormCode": "USNMTRD41413",
+      "taxTypeId": "All"
+    },
+    "id": 3900753
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3917556,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "endDate": "2025-01-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "NM",
+      "registrationId": "06-617426-00-0",
+      "returnName": "NMTRD41413",
+      "taxAuthorityId": 219,
+      "taxAuthorityName": "NEW MEXICO",
+      "taxFormCode": "USNMTRD41413",
+      "taxTypeId": "All"
+    },
+    "id": 3917556
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MudMixer3031",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3401 Mallory Ln Ste 100",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37067-2026",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "901-341-3031",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3917661,
+      "country": "US",
+      "effDate": "1900-01-01",
+      "endDate": "1900-01-01",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "000-036-136-707-001",
+      "months": 4095,
+      "region": "NV",
+      "registrationId": "SUT000036136707",
+      "returnName": "NVTXR01",
+      "taxAuthorityId": 87,
+      "taxAuthorityName": "NEVADA",
+      "taxFormCode": "USNVTXR01",
+      "taxTypeId": "All"
+    },
+    "id": 3917661
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MudMixer3031",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "",
+          "filingQuestionId": 29
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "806-515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4080856,
+      "country": "CA",
+      "effDate": "2025-07-01",
+      "filingFrequencyId": "Quarterly",
+      "fiscalYearStartMonth": 1,
+      "months": 2340,
+      "region": "SK",
+      "registrationId": "8183626",
+      "returnName": "CNSK",
+      "taxAuthorityId": 318,
+      "taxAuthorityName": "SASKATCHEWAN",
+      "taxFormCode": "CASK",
+      "taxTypeId": "All"
+    },
+    "id": 4080856
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "RedDogMS",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900774,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "filingFrequencyId": "InverseQuarterly",
+      "months": 1755,
+      "region": "CA",
+      "registrationId": "225031840",
+      "returnName": "CAPREPAYMENT",
+      "taxAuthorityId": 69,
+      "taxAuthorityName": "CALIFORNIA",
+      "taxFormCode": "USCAPREPAYMENT",
+      "taxTypeId": "All"
+    },
+    "id": 3900774
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer123",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900750,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "ND",
+      "registrationId": "S00344388",
+      "returnName": "NDST1",
+      "taxAuthorityId": 286,
+      "taxAuthorityName": "NORTH DAKOTA",
+      "taxFormCode": "USNDST1",
+      "taxTypeId": "All"
+    },
+    "id": 3900750
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900748,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-03-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "MS",
+      "registrationId": "1492-2253",
+      "returnName": "MS72110015",
+      "taxAuthorityId": 85,
+      "taxAuthorityName": "MISSISSIPPI",
+      "taxFormCode": "USMS72110015",
+      "taxTypeId": "All"
+    },
+    "id": 3900748
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "vini@cpajain.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900760,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "SD",
+      "registrationId": "1040-8717-ST",
+      "returnName": "SDRV11STRTNMTS",
+      "taxAuthorityId": 290,
+      "taxAuthorityName": "SOUTH DAKOTA",
+      "taxFormCode": "USSDRV11STRTNMTS",
+      "taxTypeId": "All"
+    },
+    "id": 3900760
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MudMixer3031",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3401 Mallory Ln Ste 100",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37067-2026",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "901-341-3031",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3929506,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "NV",
+      "registrationId": "SUT000036136707",
+      "returnName": "NVTXR01",
+      "taxAuthorityId": 87,
+      "taxAuthorityName": "NEVADA",
+      "taxFormCode": "USNVTXR01",
+      "taxTypeId": "All"
+    },
+    "id": 3929506
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mud4683",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "806-515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900740,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "LA",
+      "registrationId": "000013091",
+      "returnName": "LARSSTR",
+      "taxAuthorityId": 303,
+      "taxAuthorityName": "LOUISIANA",
+      "taxFormCode": "USLARSSTR",
+      "taxTypeId": "All"
+    },
+    "id": 3900740
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "vini@mudmixer.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900739,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-03-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "KY",
+      "registrationId": "S00344388",
+      "returnName": "KY51A102",
+      "taxAuthorityId": 91,
+      "taxAuthorityName": "KENTUCKY",
+      "taxFormCode": "USKY51A102",
+      "taxTypeId": "All"
+    },
+    "id": 3900739
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900741,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "endDate": "2025-03-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "MA",
+      "registrationId": "SLS-21297428-004",
+      "returnName": "MAST9",
+      "taxAuthorityId": 94,
+      "taxAuthorityName": "MASSACHUSETTS",
+      "taxFormCode": "USMAST9",
+      "taxTypeId": "All"
+    },
+    "id": 3900741
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900736,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Annually",
+      "locationCode": "",
+      "months": 2048,
+      "region": "IN",
+      "registrationId": "0166102075-001",
+      "returnName": "INST103",
+      "taxAuthorityId": 99,
+      "taxAuthorityName": "INDIANA",
+      "taxFormCode": "USINST103",
+      "taxTypeId": "All"
+    },
+    "id": 3900736
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "806-515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3933591,
+      "country": "US",
+      "effDate": "2025-02-01",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "MO",
+      "registrationId": "28427190",
+      "returnName": "MO53VLONG",
+      "taxAuthorityId": 304,
+      "taxAuthorityName": "MISSOURI",
+      "taxFormCode": "USMO53V",
+      "taxTypeId": "All"
+    },
+    "id": 3933591
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD PARTNERSHIP",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4010419,
+      "country": "US",
+      "effDate": "2025-04-01",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "MS",
+      "registrationId": "1492-2253",
+      "returnName": "MS72110015",
+      "taxAuthorityId": 85,
+      "taxAuthorityName": "MISSISSIPPI",
+      "taxFormCode": "USMS72110015",
+      "taxTypeId": "All"
+    },
+    "id": 4010419
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "S00344388",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900749,
+      "country": "US",
+      "effDate": "2024-10-01",
+      "endDate": "2025-03-31",
+      "filingFrequencyId": "Quarterly",
+      "locationCode": "",
+      "months": 2340,
+      "region": "NC",
+      "registrationId": "S00344388",
+      "returnName": "NCE500E536",
+      "taxAuthorityId": 285,
+      "taxAuthorityName": "NORTH CAROLINA",
+      "taxFormCode": "USNCE500E536",
+      "taxTypeId": "All"
+    },
+    "id": 3900749
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3401 Mallory Ln Ste 100",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37067-2026",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "901-341-3031",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3917662,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "IA",
+      "registrationId": "3-05-403326",
+      "returnName": "IA32028",
+      "taxAuthorityId": 279,
+      "taxAuthorityName": "IOWA",
+      "taxFormCode": "USIA32028",
+      "taxTypeId": "All"
+    },
+    "id": 3917662
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "merrelln1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900745,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "filingFrequencyId": "Annually",
+      "months": 2048,
+      "region": "MI",
+      "registrationId": "453991770",
+      "returnName": "MI5081SUA",
+      "taxAuthorityId": 95,
+      "taxAuthorityName": "MICHIGAN",
+      "taxFormCode": "USMI5081",
+      "taxTypeId": "All"
+    },
+    "id": 3900745
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MikeCarmody",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900764,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-03-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "VA",
+      "registrationId": "12-453991770F-001",
+      "returnName": "VAST8",
+      "taxAuthorityId": 82,
+      "taxAuthorityName": "VIRGINIA",
+      "taxFormCode": "USVAST8",
+      "taxTypeId": "All"
+    },
+    "id": 3900764
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "RedDogMS",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900762,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-02-28",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "TX",
+      "registrationId": "32045898569",
+      "returnName": "TX0111401116",
+      "taxAuthorityId": 72,
+      "taxAuthorityName": "TEXAS",
+      "taxFormCode": "USTX0111401116",
+      "taxTypeId": "All"
+    },
+    "id": 3900762
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Reddog1234",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900733,
+      "country": "US",
+      "effDate": "2025-01-01",
+      "filingFrequencyId": "Annually",
+      "months": 2048,
+      "region": "HI",
+      "registrationId": "GE-210-630-4000-01R",
+      "returnName": "HIG49",
+      "taxAuthorityId": 278,
+      "taxAuthorityName": "HAWAII",
+      "taxFormCode": "USHIG49",
+      "taxTypeId": "All"
+    },
+    "id": 3900733
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "15235440",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "8065154683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900751,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "NE",
+      "registrationId": "15235440",
+      "returnName": "NEFORM10COMBINED",
+      "taxAuthorityId": 283,
+      "taxAuthorityName": "NEBRASKA",
+      "taxFormCode": "USNEFORM10COMBINED",
+      "taxTypeId": "All"
+    },
+    "id": 3900751
+  },
+  {
+    "GRStatus": "Active",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "MudMixer3031",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "",
+          "filingQuestionId": 29
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "806-515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 4037599,
+      "country": "CA",
+      "effDate": "2025-04-01",
+      "filingFrequencyId": "Quarterly",
+      "fiscalYearStartMonth": 1,
+      "months": 2340,
+      "region": "MB",
+      "registrationId": "780383162MT0001",
+      "returnName": "CNMB2234",
+      "taxAuthorityId": 309,
+      "taxAuthorityName": "MANITOBA",
+      "taxFormCode": "CAMB2234",
+      "taxTypeId": "All"
+    },
+    "id": 4037599
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900757,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-07-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "SLU-R011995476",
+      "returnName": "AL2620",
+      "taxAuthorityId": 271,
+      "taxAuthorityName": "ALABAMA",
+      "taxFormCode": "USAL2620",
+      "taxTypeId": "All"
+    },
+    "id": 3900757
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "ViniCPA",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "6621 Winfield Ave Ste A",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79407-5521",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3979666,
+      "country": "US",
+      "effDate": "2025-04-01",
+      "endDate": "2025-07-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "47-3097812",
+      "returnName": "ALMADISONCOUNTY",
+      "taxAuthorityId": 245,
+      "taxAuthorityName": "MADISON CO",
+      "taxFormCode": "USALMADISONCOUNTY",
+      "taxTypeId": "All"
+    },
+    "id": 3979666
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900775,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "CO",
+      "registrationId": "30503395-003-SLS",
+      "returnName": "CODR0100CS",
+      "taxAuthorityId": 1,
+      "taxAuthorityName": "COLORADO",
+      "taxFormCode": "USCODR0100CS",
+      "taxTypeId": "All"
+    },
+    "id": 3900775
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "OJMD Partnership",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "nate@mudmixer.com",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "3015 Blossom Trail Ln",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Franklin",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TN",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "37064-3363",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "45-3991770",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900765,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-09-30",
+      "filingFrequencyId": "Monthly",
+      "locationCode": "",
+      "months": 4095,
+      "region": "WA",
+      "registrationId": "605-267-406",
+      "returnName": "WAMULTIPURPOSEST",
+      "taxAuthorityId": 73,
+      "taxAuthorityName": "WASHINGTON",
+      "taxFormCode": "USWAMULTIPURPOSEST",
+      "taxTypeId": "All"
+    },
+    "id": 3900765
+  },
+  {
+    "GRStatus": "Expired",
+    "GRTypePreTransform": "FilingCalendar",
+    "companyId": 6359760,
+    "data": {
+      "answers": [
+        {
+          "answer": "",
+          "filingQuestionId": 1
+        },
+        {
+          "answer": 1,
+          "filingQuestionId": 2
+        },
+        {
+          "answer": "MudMixer, LLC",
+          "filingQuestionId": 24
+        },
+        {
+          "answer": "Mudmixer",
+          "filingQuestionId": 26
+        },
+        {
+          "answer": "********",
+          "filingQuestionId": 27
+        },
+        {
+          "answer": "5109 82nd St Unit 71215",
+          "filingQuestionId": 28
+        },
+        {
+          "answer": "Lubbock",
+          "filingQuestionId": 30
+        },
+        {
+          "answer": "TX",
+          "filingQuestionId": 31
+        },
+        {
+          "answer": "79424-3000",
+          "filingQuestionId": 32
+        },
+        {
+          "answer": "US",
+          "filingQuestionId": 33
+        },
+        {
+          "answer": "(806) 515-4683",
+          "filingQuestionId": 34
+        },
+        {
+          "answer": "47-3097812",
+          "filingQuestionId": 36
+        }
+      ],
+      "companyReturnId": 3900770,
+      "country": "US",
+      "effDate": "2024-12-01",
+      "endDate": "2025-12-31",
+      "filingFrequencyId": "Monthly",
+      "months": 4095,
+      "region": "AL",
+      "registrationId": "LCL-R011995475",
+      "returnName": "AL9501",
+      "taxAuthorityId": 392,
+      "taxAuthorityName": "ALABAMA CITY & COUNTY",
+      "taxFormCode": "USAL9501",
+      "taxTypeId": "All"
+    },
+    "id": 3900770
+  }
+]

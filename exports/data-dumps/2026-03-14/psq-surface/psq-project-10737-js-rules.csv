@@ -1,0 +1,9 @@
+rule_id,description,source_file,line
+q1_checkbox_controls_q47_per_state,Q1 checkboxes toggle Q1 date collection and per-state Q47 blocks using state abbreviations.,/tmp/psq-genInfo.js,15
+project_type_6_changes_q47_behavior,Project type 6 adds/removes Q47 and renumbers later questions when the related yes/no answer changes.,/tmp/psq-genInfo.js,34
+q48_ohio_special_case,Q48 has an Ohio-specific branch that forces Ohio visibility/selection even when other states are hidden.,/tmp/psq-genInfo.js,81
+llc_tax_purpose_branching,Legal entity type drives LLC tax-purpose options and related federal-tax sections.,/tmp/psq-genInfo.js,162
+second_owner_branching,Second-owner help/visibility depends on partnership-style entity types and one LLC tax-purpose path.,/tmp/psq-genInfo.js,4
+business_location_subquestions,Business-location subquestions are shown per jurisdiction via dynamic business-location blocks.,/tmp/psq-genInfo.js,608
+masked_value_fetch_endpoints,Preview mode can fetch masked field values and masked registration credentials through authenticated questionnaire endpoints.,/tmp/psq-enablePreviewInputs.js,44
+owner_passport_driver_license_branching,"Owner identity fields switch between passport and driver-license sections, with extra rules for owner two.",/tmp/psq-ownerCompanyInfo.js,91
