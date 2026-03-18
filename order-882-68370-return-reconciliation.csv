@@ -1,0 +1,25 @@
+jurisdiction,order_status,registration_complete,return_present,blocker
+Canada Federal,Completed,true,false,Completed registration; Canada federal Returns setup was skipped because the Avalara federal setup path hung / was unclear.
+British Columbia,Completed,true,false,Completed registration; deferred intentionally.
+Georgia,Pending Customer Response,false,false,Registration not finished; Pending Customer Response.
+Iowa,On Hold,false,true,
+Kansas,Pending Customer Response,false,true,
+Kentucky,Completed,true,true,
+Manitoba,Completed,true,true,
+Michigan,Completed,true,false,Completed registration; no new-company filing request created because the Michigan state-side flow locked / failed.
+Minnesota,Completed,true,true,
+Nebraska,Completed,true,true,
+Nevada,On Hold,false,true,
+North Carolina,Completed,true,true,
+North Dakota,Completed,true,true,
+Ohio,Completed,true,true,
+Oklahoma,Completed,true,false,Completed registration; Returns setup blocked until the state-issued 13-character account ID arrives.
+Quebec,Pending Customer Response,false,false,Registration not finished; Pending Customer Response.
+Saskatchewan,Completed,true,true,
+South Dakota,Completed,true,true,
+Tennessee,Pending Customer Response,false,true,
+Utah,Completed,true,false,Completed registration; Returns setup needs the mailed Utah account ID/PIN not included in the registration packet.
+Washington,Pending Customer Response,false,false,Registration not finished; Pending Customer Response.
+West Virginia,Completed,true,true,
+Wisconsin,Completed,true,true,
+Wyoming,Pending Customer Response,false,false,Registration not finished; Pending Customer Response.

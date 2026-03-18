@@ -275,6 +275,8 @@ Useful workspace files:
 - `return-action-review.csv`
 - `return-action-delete.csv`
 - `return-action-migrate.csv`
+- `TASKS.md`
+  - Use this for operational follow-ups that do not fit cleanly into the return migration CSVs.
 - `active-returns-default-company-code.csv`
 - `active-returns-default-company-code-wide.csv`
 - `active-returns-default-company-code.json`
